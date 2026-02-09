@@ -1,1 +1,2 @@
 I learned to use the word touch when I want to create new files on the terminal. I also learned how to clone my repository on my local machine by copying the https url on github. I also learned how to create a new repository on github.Now i also know how to stage, by using the add . keyword.
+i like merging
